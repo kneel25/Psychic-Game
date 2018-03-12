@@ -1,0 +1,27 @@
+body { 
+    background-color: aquamarine;
+}
+
+#game {
+    color: #777777;
+    width: 485px;
+    height: 220px;
+    font-size: 20px;
+    border: 4px solid gray;
+    padding: 20px;
+    background-color: pink; 
+    position: relative;
+    top: 150px;
+    left: 460px;
+}
+
+h1 {
+ text-align: center;
+ font-family: 'Homemade Apple', cursive;
+ font-size: 40px;
+}
+
+p {
+    font-family: 'Rock Salt', cursive;
+    line-height: 35px;
+}
